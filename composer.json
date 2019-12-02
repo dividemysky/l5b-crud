@@ -10,7 +10,9 @@
     }
   ],
   "minimum-stability": "stable",
-  "require": {},
+  "require": {
+    "laravel/helpers": "^1.1"
+  },
   "autoload": {
     "psr-4": {
       "pqrs\\L5BCrud\\": "src/"
